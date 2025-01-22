@@ -30,10 +30,10 @@ EduHub is a static website designed to provide users with a modern and visually 
 ## 📂 Folder Structure
       📦 edu-hub-platform
          ├── 📄 about.html
-         ├── 📄 about.html 
-         ├── 📄 about.html 
-         ├── 📄 about.html 
-         ├── 📄 about.html 
-         ├── 📄 about.html 
+         ├── 📄 blog.html 
+         ├── 📄 contact.html 
+         ├── 📄 index.html 
+         ├── 📄 services.html 
+         ├── 📄 style.css 
          
 
